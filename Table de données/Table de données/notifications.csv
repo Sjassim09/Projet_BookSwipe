@@ -1,0 +1,4 @@
+"id","utilisateur_id","message","lu","date_notification"
+1,1,"Vous avez prêté un livre !",False,"2025-03-12 11:08:35.796094"
+2,2,"Vous avez reçu un livre en échange !",True,"2025-03-12 11:08:35.796094"
+3,1,"Le livre ""Les Misérables"" que vous avez en favori est maintenant disponible !",False,"2025-03-12 11:20:20.562105"

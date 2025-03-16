@@ -1,0 +1,5 @@
+"id","titre","auteur","categorie","utilisateur_id","stock","statut","date_ajout","categorie_id","moyenne_note"
+4,"Le Petit Prince","Antoine de Saint-Exupéry","Littérature",1,1,"échangé","2025-03-12 10:18:06.296835",NULL,"0.00"
+5,"1984","George Orwell","Science-fiction",1,1,"échangé","2025-03-12 10:18:06.296835",NULL,"0.00"
+6,"L’Étranger","Albert Camus","Classique",1,2,"échangé","2025-03-12 10:18:06.296835",NULL,"0.00"
+7,"Les Misérables","Victor Hugo","Classique",2,1,"échangé","2025-03-12 10:31:46.050348",NULL,"4.00"
